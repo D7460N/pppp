@@ -1,6 +1,6 @@
 # Protecting The Elderly From Scammers
 
-### Phone Privacy Plan (PPP)
+### Phone Privacy Protection Plan (PPPP)
 
 This document explains how to impliment a simple, safe, and cost-effective system to protect elderly from scammers, spam callers, and financial predators.  
 It uses a private “front-end” phone number to shield the real phone number.
