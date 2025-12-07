@@ -2,10 +2,12 @@
 
 ## Phone Privacy Protection Plan (PPPP)
 
-PURPOSE : :  
+PURPOSE : :
+
 This document is meant to raise awareness about how scammers, spam callers, and financial predators target vulnerable individuals—circling them like vultures—and to explain how to implement a simple, safe, and cost-effective Phone Privacy Protection Plan (PPPP).
 
-GOAL : :  
+GOAL : :
+
 The goal is to reduce the “attack surface” that bad actors exploit to deceive, manipulate, and financially victimize vulnerable people.
 
 ### STEP 01 : :
